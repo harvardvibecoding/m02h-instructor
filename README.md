@@ -1,3 +1,1 @@
-# m02i
-
-File upload added. Starting point for error handling iteration.
+Instructor output for simplified impact score with file upload functionality, created by AI.
