@@ -1,1 +1,8 @@
-Instructor output for simplified impact score with file upload functionality, created by AI.
+Continuing on from the prior unit, this project contails the resulting output of the instructor's AI when prompted for file upload functionality in `people_headcount_app.py`.
+
+To run the Streamlit app:
+
+```bash
+streamlit run people_headcount_app.py
+```
+
